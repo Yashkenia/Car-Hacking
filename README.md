@@ -3,4 +3,8 @@ Usage of Software Defined Radio to capture the Key Fob frequencies and implement
 
 Technologies used - HackRF and Software Defined Radio , Python
 
+The repositories contain the codes for capturing and replaying of different cars tried out on.
+
+Tested Cars - Honda City, Hyundai Xcent, Maruti WagonR
+
 References - www.greatscottgadgets.com
